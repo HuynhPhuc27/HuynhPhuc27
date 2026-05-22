@@ -5,7 +5,7 @@ Currently final-year IT student passionate about AI, Computer Vision, and Backen
 ## About Me
 - 🎓 Final-year Information Technology student
 - 🤖 Interested in AI, Computer Vision, and Web Development.
-- 💻 Experience with Django, YOLO, Python, MySQL
+- 💻 Experience with Django, YOLO, Python, MySQL, Node.js and TypeScripts (basic).
 - 📚 Researcher with international conference publications
 
 ## Tech Stack
